@@ -19,7 +19,7 @@ Puedes ver la aplicación en funcionamiento [aquí](https://desafio17-hito2.verc
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/geoquimica-gomez/desafio17Hito2.git
+    git clone https://github.com/geoquimica-gomez/desafio17Hito3.git
     ```
 
 2. Navega al directorio del proyecto:
