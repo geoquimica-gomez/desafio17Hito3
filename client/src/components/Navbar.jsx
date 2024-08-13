@@ -63,7 +63,7 @@ const NavbarApp = () => {
                             placement="bottom"
                             overlay={<Tooltip id="tooltip-cart">Ver carrito de compras</Tooltip>}
                         >
-                            <Link to="/" className='btn2'>🛒Total: {total.toLocaleString()} $</Link>
+                            <Link to="/cartShooping" className='btn2'>🛒Total: {total.toLocaleString()} $</Link>
                         </OverlayTrigger>
                     </Nav>
                 </Navbar.Collapse>

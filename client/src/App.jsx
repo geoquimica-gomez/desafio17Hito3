@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 import Home from './views/Home';
 import RegisterPage from './views/RegisterPage';
 import LoginPage from './views/LoginPage';
+import Cart from './views/Cart';
 
 function App() {
   console.log('App render');
@@ -32,6 +33,10 @@ function App() {
             path="/login"
             element={<LoginPage />}
           />
+          <Route
+            path='cartShooping'
+            element={<Cart />}
+            />
         </Routes>
       </main>
 
