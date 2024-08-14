@@ -4,7 +4,7 @@
 
 ## Despliegue
 
-Puedes ver la aplicación en funcionamiento [aquí](https://desafio17-hito2.vercel.app/).
+Puedes ver la aplicación en funcionamiento [aquí](https://desafio17-hito3.vercel.app/).
 
 ## Tecnologías utilizadas
 
